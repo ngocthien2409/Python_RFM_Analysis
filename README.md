@@ -31,3 +31,4 @@ This method gives customers scores based on 3 factors:
 The values of each factor allow businesses to provide objective analysis and determine which audience to target for the most effective advertising and marketing campaigns. Most companies use a scale between 1 to 5, but you can use any values you think are necessary and helpful in evaluating clients.
 
 ## 4. Data Visualization:
+
